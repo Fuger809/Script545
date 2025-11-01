@@ -1,5 +1,5 @@
 return {
 "hitler",
-"hih",
+"hih"
 }
   
